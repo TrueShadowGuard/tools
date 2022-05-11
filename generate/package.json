@@ -1,0 +1,7 @@
+{
+  "name": "generate",
+  "version": "1.0.0",
+  "dependencies": {
+    "generate-template-files": "^3.2.0"
+  }
+}
