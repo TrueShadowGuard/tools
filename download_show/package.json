@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "colors": "^1.4.0",
+    "input": "^1.0.1",
+    "jsdom": "^19.0.0",
+    "puppeteer": "^14.3.0"
+  },
+  "name": "download_serial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
